@@ -8,32 +8,32 @@
   "tunnels": [
     {
       "endpoint": {
-        "id": "ep_2yJQWaNvYHnfPFiPnbDW8QmwwT3",
-        "uri": "https://api.ngrok.com/endpoints/ep_2yJQWaNvYHnfPFiPnbDW8QmwwT3"
+        "id": "ep_2yP4N1KfRdhbpVhXGvQIglipn8k",
+        "uri": "https://api.ngrok.com/endpoints/ep_2yP4N1KfRdhbpVhXGvQIglipn8k"
       },
       "forwards_to": "http://localhost:80",
-      "id": "tn_2yJQWaNvYHnfPFiPnbDW8QmwwT3",
+      "id": "tn_2yP4N1KfRdhbpVhXGvQIglipn8k",
       "proto": "https",
-      "public_url": "https://e132a8dcf484.ngrok.paid",
+      "public_url": "https://c54ffa8744c7.ngrok.paid",
       "region": "us",
-      "started_at": "2025-06-10T10:10:28Z",
+      "started_at": "2025-06-12T10:07:10Z",
       "tunnel_session": {
-        "id": "ts_2yJQWZ7kRtUsRz7jOPKZHKQY01l",
-        "uri": "https://api.ngrok.com/tunnel_sessions/ts_2yJQWZ7kRtUsRz7jOPKZHKQY01l"
+        "id": "ts_2yP4Mxq2VEesKqrchKyQKQjFPgY",
+        "uri": "https://api.ngrok.com/tunnel_sessions/ts_2yP4Mxq2VEesKqrchKyQKQjFPgY"
       }
     },
     {
       "forwards_to": "http://localhost:80",
-      "id": "tn_2yJQWBmUZ3lFWUM1qh24Tq676km",
+      "id": "tn_2yP4MY0jyhlQgfJOvxJQfOPnBUb",
       "labels": {
         "baz": "qux",
         "foo": "bar"
       },
       "region": "us",
-      "started_at": "2025-06-10T10:10:25Z",
+      "started_at": "2025-06-12T10:07:06Z",
       "tunnel_session": {
-        "id": "ts_2yJQWAZemiEL7KVfpIac6blLQce",
-        "uri": "https://api.ngrok.com/tunnel_sessions/ts_2yJQWAZemiEL7KVfpIac6blLQce"
+        "id": "ts_2yP4MZ1Fdy8ySkkKCXeTBUzyXlC",
+        "uri": "https://api.ngrok.com/tunnel_sessions/ts_2yP4MZ1Fdy8ySkkKCXeTBUzyXlC"
       }
     }
   ],
